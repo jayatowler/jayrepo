@@ -1,1 +1,3 @@
-# jayrepo
+# maven-project
+
+Simple Maven Project
